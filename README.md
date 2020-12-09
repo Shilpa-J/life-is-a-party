@@ -1,1 +1,1 @@
-# life-is-a-party
+# first app
